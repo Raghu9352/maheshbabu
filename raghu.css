@@ -1,0 +1,30 @@
+body{
+    background-color: red;
+}
+.btn1{
+    background-color: aqua;
+    color: chartreuse;
+}
+h1{
+    background-color: rgb(44, 44, 211);
+}
+body{
+    background:linear-gradient( red,blue,green,red,blue,green,red,blue,green);
+    height: 100vh;
+}
+.btn2{
+    background-color: blue;
+    color : red;
+}
+.btn3{
+    background-color: blueviolet;
+    color: black;
+}
+.btn4{
+    background-color: beige;
+    color: pink;
+}
+.btn5{
+background-color: goldenrod;
+color:rgb(44, 44, 211);
+}

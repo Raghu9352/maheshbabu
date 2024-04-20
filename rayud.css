@@ -1,0 +1,42 @@
+h1{
+    color : red;
+}
+.main{
+    background-color: aliceblue;
+    height: 50vh;
+    width:200px;
+}
+.box{
+    background-color: red;
+    height: 2rem;
+    width: 50px;
+}
+.main{
+    background-color: aliceblue;
+    height: 50%;
+    width:200px;
+}
+body{
+    background:url('./image.png');
+
+    
+    background-color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 48px;
+    font-weight: 900;
+    font-style: italic;
+    font-variant:small-caps;
+    background-color:floralwhite;
+
+}
+p{
+    text-align: center;
+    text-transform: capitalize;
+    color: red;
+    text-decoration: dotted;
+    text-decoration-line: underline;
+    
+    text-overflow: clip;
+    text-shadow: -5px 5px black;
+    
+}
